@@ -3,7 +3,7 @@
 
 [Сайт](OzI577.github.io "Мой первий сайт!")
 
-[Site](ozi577.github.io/site)
+[Site](OzI577.github.io\site)
 
 
 
